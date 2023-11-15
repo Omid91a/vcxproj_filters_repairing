@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VSXFilterRepair.NodeItem" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAQAAAAAAE=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.ItemGroupChild" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.BuildNode" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.ItemGroup" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.Filter" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAgAAAAABAAAAQAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.ClCompile" Collapsed="true">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.ClInclude" Collapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.ResourceCompile" Collapsed="true">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.ImageNode" Collapsed="true">
+    <Position X="16.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.None" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSXFilterRepair.CustomBuild" Collapsed="true">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>VSXFilterNodes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
